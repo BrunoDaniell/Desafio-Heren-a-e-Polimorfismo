@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\bin\Debug\net6.0\desafiohp.exe
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\bin\Debug\net6.0\desafiohp.deps.json
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\bin\Debug\net6.0\desafiohp.runtimeconfig.json
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\bin\Debug\net6.0\desafiohp.dll
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\bin\Debug\net6.0\desafiohp.pdb
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.AssemblyInfo.cs
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.dll
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\refint\desafiohp.dll
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.pdb
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\desafiohp.genruntimeconfig.cache
+C:\Users\bruno\Desktop\PROJETOS\desafiohp\desafiohp\obj\Debug\net6.0\ref\desafiohp.dll
